@@ -1,5 +1,7 @@
 # FreeRTOS Sensor Supervisor
 
+[![build](https://github.com/khalil-lab/freertos-sensor-supervisor/actions/workflows/build.yml/badge.svg)](https://github.com/khalil-lab/freertos-sensor-supervisor/actions/workflows/build.yml)
+
 A small industrial-style supervision application built on FreeRTOS, running on
 the POSIX port so it can be developed and tested on a normal Linux machine.
 
